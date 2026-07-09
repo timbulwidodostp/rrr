@@ -1,0 +1,4 @@
+D 'rrr': Reduced rank regression Use rrr With STATA 19
+D
+F rrr.ado
+F rrr.sthlp
