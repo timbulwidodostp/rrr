@@ -1,6 +1,8 @@
 # rrr
 Reduced rank regression Use rrr With STATA 19
 
+https://www.youtube.com/watch?v=rbDSASk3ojE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
